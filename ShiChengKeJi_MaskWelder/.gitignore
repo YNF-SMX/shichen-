@@ -1,0 +1,14 @@
+!*.c 
+!*.h
+!*.uvoptx
+!*.uvprojx
+!*.MCP
+Objects
+Listings
+DebugConfig
+*.bak
+*.ldb
+*.uvguix.*
+*.log
+繁易触摸屏
+
